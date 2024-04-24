@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PTUD\\webform_v4-Thuy_team\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\orders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:orders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\orders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:orders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|f:\\ptud\\webform_v4-thuy_team\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\productdetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:productdetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\controls\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:controls\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|F:\\PTUD\\webform_v4-Thuy_team\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784F9AAC-732B-45B8-AE32-4C6D5E6F590D}|WebApplication1.csproj|solutionrelative:products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orders.aspx",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\Orders.aspx",
+              "RelativeDocumentMoniker": "Orders.aspx",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\Orders.aspx",
+              "RelativeToolTip": "Orders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T10:56:33.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\SignUp.aspx",
+              "RelativeDocumentMoniker": "SignUp.aspx",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\SignUp.aspx",
+              "RelativeToolTip": "SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T10:41:20.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignIn.aspx",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\SignIn.aspx",
+              "RelativeDocumentMoniker": "SignIn.aspx",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\SignIn.aspx",
+              "RelativeToolTip": "SignIn.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T10:40:11.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.aspx",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\About.aspx",
+              "RelativeDocumentMoniker": "About.aspx",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\About.aspx",
+              "RelativeToolTip": "About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T10:00:07.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDetails.aspx",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\ProductDetails.aspx",
+              "RelativeDocumentMoniker": "ProductDetails.aspx",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\ProductDetails.aspx",
+              "RelativeToolTip": "ProductDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T08:51:07.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orders.aspx.cs",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\Orders.aspx.cs",
+              "RelativeDocumentMoniker": "Orders.aspx.cs",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\Orders.aspx.cs",
+              "RelativeToolTip": "Orders.aspx.cs",
+              "ViewState": "AQIAAFYAAACAaGZmZiYkwG8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:20:24.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetails.aspx.cs",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\ProductDetails.aspx.cs",
+              "RelativeDocumentMoniker": "ProductDetails.aspx.cs",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\ProductDetails.aspx.cs",
+              "RelativeToolTip": "ProductDetails.aspx.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAowJMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:13:50.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T09:11:41.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\Products.aspx",
+              "RelativeDocumentMoniker": "Products.aspx",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\Products.aspx",
+              "RelativeToolTip": "Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T08:51:08.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T08:40:59.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Footer.ascx",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\Controls\\Footer.ascx",
+              "RelativeDocumentMoniker": "Controls\\Footer.ascx",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\Controls\\Footer.ascx",
+              "RelativeToolTip": "Controls\\Footer.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-24T09:48:07.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDetails.aspx.designer.cs",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\ProductDetails.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ProductDetails.aspx.designer.cs",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\ProductDetails.aspx.designer.cs",
+              "RelativeToolTip": "ProductDetails.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:25:55.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\Contact.aspx",
+              "RelativeDocumentMoniker": "Contact.aspx",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\Contact.aspx",
+              "RelativeToolTip": "Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T09:50:56.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Products.aspx.cs",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\Products.aspx.cs",
+              "RelativeDocumentMoniker": "Products.aspx.cs",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\Products.aspx.cs",
+              "RelativeToolTip": "Products.aspx.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:51:19.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "F:\\PTUD\\webform_v4-Thuy_team\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "F:\\PTUD\\webform_v4-Thuy_team\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:47:39.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
